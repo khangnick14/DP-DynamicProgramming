@@ -1,0 +1,5 @@
+1. Notice any overlapping subproblems
+2. Decide what is the trivially smallest input
+3. Think recursively to use Memoization
+4. Think iteratively to use Tabulation
+5. Draw a strategy first !!!!!!!!!!!
