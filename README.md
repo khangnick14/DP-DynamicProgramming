@@ -1,2 +1,3 @@
 # Dynamic-Programming
-Check PDF files to understand more about this method
+
+![](Dynamic_Programming.jpg)
